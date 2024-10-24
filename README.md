@@ -1,2 +1,4 @@
-# DashBoard-UI
-DashBoard UI
+steps to start project:
+
+1: npm install
+2: npm start
